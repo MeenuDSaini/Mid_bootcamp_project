@@ -15,6 +15,7 @@ In this project, The research team used male rat models for the study and these 
 
 
 ### Goal
+
 To check the efficacy of drug that could alleviate Cognitive Impairment and Dementia risk in diabetes.
 ---
 
