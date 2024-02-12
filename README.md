@@ -1,7 +1,7 @@
 # Mid_bootcamp_project
 
 ---
-**TITLE: 
+**TITLE**: 
 Evaluating the effectiveness of drug in alleviating Cognitive Impairment and Dementia risk in Diabetes
 
 ---
@@ -14,12 +14,14 @@ In this project, The research team used male rat models for the study and these 
 *Plus maze test (This test is used to measure anxiety-like behavior or decision making ability in rodents.)
 
 
-### Goal
+**Goal**
 
 To check the efficacy of drug that could alleviate Cognitive Impairment and Dementia risk in diabetes.
+
 ---
 
 **Features**
+
 This project is committed to provide in depth information about neurological disorder like Cognitive Impairment and Dementia.
 
 **Data Source**
@@ -45,11 +47,14 @@ Gathered suppliment information related to these neurological disorders like wha
 This project goes beyond scientific exploration; it addresses social responsibility by seeking practical ways to improve the lives of individuals with diabetes. The study aims to contribute meaningful insights through data analysis for better health outcomes.
 
 ---
-[The link for Powerpoint Presentation:] (https://docs.google.com/presentation/d/1d-XYjZybN1Bh0AUpI4il4SVMfxsscQTPGg9pzOpiVUo/edit#slide=id.g111c3728c19_0_120](https://docs.google.com/presentation/d/1d-XYjZybN1Bh0AUpI4il4SVMfxsscQTPGg9pzOpiVUo/edit?usp=sharing)
-[The link of Tableau Dashboard] (https://public.tableau.com/app/profile/meenu.saini/viz/bootcampproject_16987645733460/Dashboard1?publish=yes) 
+
+**The link for Powerpoint Presentation**: (https://docs.google.com/presentation/d/1d-XYjZybN1Bh0AUpI4il4SVMfxsscQTPGg9pzOpiVUo/edit#slide=id.g111c3728c19_0_120](https://docs.google.com/presentation/d/1d-XYjZybN1Bh0AUpI4il4SVMfxsscQTPGg9pzOpiVUo/edit?usp=sharing)
+**The link of Tableau Dashboard**: (https://public.tableau.com/app/profile/meenu.saini/viz/bootcampproject_16987645733460/Dashboard1?publish=yes) 
+
 ---
 
-###Conclusion
+###Conclusion:
+
 In this project, As the we didn't see significant difference in RI of rats at 34W, it shows there is no memory loss in NOR test so we could not see the effect of drug. It shows that rat models were not good for memory test. But we saw significant difference in Plus Maze test, untreated spent more time in closed arm it shows they were in depressive mode and anxiety while treated rats spent more time in open and closed arm in exploring the arms shows that drug treated their anxiety. Therefore in this case we can not conclude about that drug could or could not effectively alleviate the problem of Cognitive impairment and Dementia in diabetes, because the rat models are not good for memory test. Though the drug is showing positive effects in reducing anxiety and depressive behaviour of rats. So, here is suggestion for research team that should perform the test of thios drug on another rat models.
 
 **Acknowledgement**
