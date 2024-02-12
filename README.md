@@ -1,6 +1,6 @@
 # Mid_bootcamp_project
 ---
-##TITLE: Therapeutic Explorations: Examining the efficacy of drug in alleviating Cognitive Impairment and Dementia risk in Diabetes
+##TITLE: Evaluating the effectiveness of drug in alleviating Cognitive Impairment and Dementia risk in Diabetes
 ---
 **Intoduction**
 ---
