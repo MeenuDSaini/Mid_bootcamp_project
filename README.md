@@ -1,6 +1,9 @@
 # Mid_bootcamp_project
+
 ---
-##TITLE: Evaluating the effectiveness of drug in alleviating Cognitive Impairment and Dementia risk in Diabetes
+**TITLE: 
+Evaluating the effectiveness of drug in alleviating Cognitive Impairment and Dementia risk in Diabetes
+
 ---
 **Intoduction**
 ---
