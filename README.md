@@ -48,12 +48,12 @@ This project goes beyond scientific exploration; it addresses social responsibil
 
 ---
 
-**The link for Powerpoint Presentation**: (https://docs.google.com/presentation/d/1d-XYjZybN1Bh0AUpI4il4SVMfxsscQTPGg9pzOpiVUo/edit#slide=id.g111c3728c19_0_120](https://docs.google.com/presentation/d/1d-XYjZybN1Bh0AUpI4il4SVMfxsscQTPGg9pzOpiVUo/edit?usp=sharing)
+**The link for Powerpoint Presentation**: (https://docs.google.com/presentation/d/1d-XYjZybN1Bh0AUpI4il4SVMfxsscQTPGg9pzOpiVUo/edit#slide=id.g111c3728c19_0_120](https://docs.google.com/presentation/d/1d-XYjZybN1Bh0AUpI4il4SVMfxsscQTPGg9pzOpiVUo/edit?usp=sharing)  
 **The link of Tableau Dashboard**: (https://public.tableau.com/app/profile/meenu.saini/viz/bootcampproject_16987645733460/Dashboard1?publish=yes) 
 
 ---
 
-###Conclusion:
+### Conclusion:
 
 In this project, As the we didn't see significant difference in RI of rats at 34W, it shows there is no memory loss in NOR test so we could not see the effect of drug. It shows that rat models were not good for memory test. But we saw significant difference in Plus Maze test, untreated spent more time in closed arm it shows they were in depressive mode and anxiety while treated rats spent more time in open and closed arm in exploring the arms shows that drug treated their anxiety. Therefore in this case we can not conclude about that drug could or could not effectively alleviate the problem of Cognitive impairment and Dementia in diabetes, because the rat models are not good for memory test. Though the drug is showing positive effects in reducing anxiety and depressive behaviour of rats. So, here is suggestion for research team that should perform the test of thios drug on another rat models.
 
