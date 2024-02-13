@@ -64,5 +64,5 @@ This project goes beyond scientific exploration; it addresses social responsibil
 - Investigate additional behavioral assays or tests that may provide a more comprehensive understanding of the drug's impact on Cognitive Impairment and Dementia in diabetes. 
 
 **Acknowledgement**
-Special Gratitude to Abdul Yasir, Research Assistant Professor, Dept of Pathology & Lab Medicine, Medical University of South Carolina.
-My heartfelt gratitude to my mentor, Sabina Firtala, whose guidance and wealth of knowledge have been invaluable throughout my journey.
+- My heartfelt gratitude to my mentor, **Sabina Firtala**, whose guidance and wealth of knowledge have been invaluable throughout my journey.
+- Special Gratitude to **Abdul Yasir**, Research Assistant Professor, Dept of Pathology & Lab Medicine, Medical University of South Carolina.
