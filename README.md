@@ -55,7 +55,14 @@ This project goes beyond scientific exploration; it addresses social responsibil
 
 ### Conclusion:
 
-In this project, As the we didn't see significant difference in RI of rats at 34W, it shows there is no memory loss in NOR test so we could not see the effect of drug. It shows that rat models were not good for memory test. But we saw significant difference in Plus Maze test, untreated spent more time in closed arm it shows they were in depressive mode and anxiety while treated rats spent more time in open and closed arm in exploring the arms shows that drug treated their anxiety. Therefore in this case we can not conclude about that drug could or could not effectively alleviate the problem of Cognitive impairment and Dementia in diabetes, because the rat models are not good for memory test. Though the drug is showing positive effects in reducing anxiety and depressive behaviour of rats. So, here is suggestion for research team that should perform the test of thios drug on another rat models.
+- No significant difference in RI of rats at 34W in the NOR test, indicating no memory loss observed.
+- Significant difference in Plus Maze test, suggesting the drug's positive impact on reducing anxiety and depressive behavior in rats.
+- Inconclusive results regarding the drug's effectiveness in alleviating Cognitive Impairment and Dementia in diabetes due to limitations with the rat models.
+
+ **Future Research Recommendations**:
+- Explore the drug's effects on alternative rat models with a focus on memory testing.
+- Investigate additional behavioral assays or tests that may provide a more comprehensive understanding of the drug's impact on Cognitive Impairment and Dementia in diabetes. 
 
 **Acknowledgement**
 Special Gratitude to Abdul Yasir, Research Assistant Professor, Dept of Pathology & Lab Medicine, Medical University of South Carolina.
+My heartfelt gratitude to my mentor, Sabina Firtala, whose guidance and wealth of knowledge have been invaluable throughout my journey.
